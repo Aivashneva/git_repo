@@ -1,4 +1,4 @@
-print('hello')
-print('hello once again')
-print('hi')
-print('good morning')
+print('hello;')
+print('hello once again;')
+print('hi;')
+print('good morning;')
