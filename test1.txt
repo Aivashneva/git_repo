@@ -1,7 +1,0 @@
-print('hello;')
-print('hello once again;')
-print('hi;')
-print('helloooooooo;')
-print('something new;')
-print('good morning;')
-print('oh no;')
